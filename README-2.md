@@ -169,8 +169,9 @@ Open `Flower_Predictor_PT_ResNet50.ipynb`, upload the saved `pt_resnet50_flowers
 
 ---
 
-## 👤 Author
+## Author
 
-**[Your Name]**
-Pace University — MS Computer Science
-CS672 Introduction to Deep Learning — Spring 2026
+**Ananya Saravani Ganni**
+- [LinkedIn](https://www.linkedin.com/in/ananyasaravani)
+- ananyasaravaniganni@gmail.com
+
