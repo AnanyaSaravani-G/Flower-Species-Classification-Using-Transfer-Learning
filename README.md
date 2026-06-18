@@ -8,8 +8,6 @@
 
 This project builds a deep learning image classifier for flower species recognition using **Transfer Learning** on the [Flowers Recognition Dataset](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition) from Kaggle. Rather than training from scratch, we fine-tune pretrained Convolutional Neural Networks (CNNs) that were originally trained on ImageNet — adapting their learned features to distinguish between 5 flower classes.
 
-The project was completed as part of **CS672 – Introduction to Deep Learning** at Pace University (Spring 2026).
-
 ---
 
 ## 🌼 Classes
